@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Z.W. Miller
+title:               Sean Monagle
 tagline:             A Moderately Okay Data Science Blog
-url:                 http://zwmiller.github.io
+url:                 http://smonagle.github.io
 paginate:            2
 baseurl:             ""
 
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Zach Miller
-  url:               https://twitter.com/zaglamir
-  email:             zach@thisismetis.com
+  name:              Sean Monagle
+  url:               https://smonagle.github.io
+  email:             sean.monagle@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/zwmiller
+  repo:              https://github.com/smonagle
 
 # Gems
 gems:
@@ -35,4 +35,4 @@ gems:
 pages_list:       
   About: '/about'
   Archive: '/archive'
-  Feed: '/index.html'
+  Feed: '/index.'
